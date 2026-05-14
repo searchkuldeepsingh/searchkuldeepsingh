@@ -28,7 +28,7 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://blink.new/project/kuldeep-portfolio-site-0r7caanj)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-mV0ZRgKVSJ1-bmpeGPSUIIHgXw4q-Au/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1jExSgpiOBZQ8gmk8EOCYznK1p6Dxoi7_/view?usp=sharing)**
 
 ---
 
