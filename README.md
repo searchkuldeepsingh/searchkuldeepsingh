@@ -95,18 +95,19 @@ The project focuses on combining enterprise .NET backend development with modern
 
 Real-time cryptocurrency trading and market analysis platform.
 
-Built to support traders with live market data, multi-exchange integration, digital asset tracking, and fast access to crypto market insights.
+Built to support traders with live market data, digital asset tracking, exchange integration, and fast access to crypto market insights through a native iOS mobile experience.
 
-The platform focused on performance, real-time data handling, responsive UI, exchange API integrations, and secure workflows for trading-related operations. It combined mobile-first user experience with backend services and third-party crypto APIs.
+The platform was primarily built using .NET Core for backend services and iOS technologies including Swift and Objective-C for the mobile application. It focused on real-time market updates, responsive mobile UX, API integration, secure workflows, and low-latency communication using Socket.IO.
 
 **Key Contributions:**
 
-- Built mobile-first crypto trading workflows using Flutter.
+- Built and maintained native iOS crypto trading workflows using Swift and Objective-C.
+- Developed backend services using .NET Core for trading-related features and portfolio workflows.
 - Integrated real-time crypto market APIs and exchange data.
-- Designed backend services for portfolio and trading-related features.
-- Focused on responsive UX, performance, and real-time data updates.
+- Implemented real-time updates and event-driven communication using Socket.IO.
+- Focused on performance, secure API integration, responsive UX, and real-time data handling.
 
-**Tech Stack:** Flutter, Dart, .NET Core, Firebase, Crypto APIs, REST APIs, Real-time Data
+**Tech Stack:** .NET Core, C#, iOS, Swift, Objective-C, Socket.IO, Crypto APIs, REST APIs, Real-time Data
 
 ---
 
