@@ -91,25 +91,6 @@ The project focuses on combining enterprise .NET backend development with modern
 
 ---
 
-### 🧠 AI Workflow Automation Platform
-
-Agent-based automation platform for intelligent workflow execution.
-
-The system is designed to coordinate AI agents, external tools, APIs, and structured workflows for automating repetitive business and engineering tasks.
-
-This project explores the intersection of AI agents, backend services, and workflow orchestration. It focuses on scalable design, modular agent responsibilities, tool execution, human-in-the-loop actions, and future-ready automation patterns.
-
-**Key Contributions:**
-
-- Designed modular AI agent architecture for task automation.
-- Explored Microsoft Autogen, CrewAI, and LangChain-based workflows.
-- Integrated REST APIs and microservices for external system communication.
-- Focused on scalable orchestration, tool calling, and reusable AI workflows.
-
-**Tech Stack:** C#, .NET Core, Microsoft Autogen, CrewAI, LangChain, Azure OpenAI, REST APIs, Microservices
-
----
-
 ### 📈 TradingBull – Crypto Trading Platform
 
 Real-time cryptocurrency trading and market analysis platform.
