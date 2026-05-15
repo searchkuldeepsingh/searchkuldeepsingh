@@ -149,6 +149,24 @@ These apps covered multiple business domains and required strong understanding o
 
 ---
 
+## 🏅 Certifications
+
+### Agile & Leadership
+- 🏅 SAFe 5 Scrum Master
+- 🏅 Professional Scrum Master I (PSM I)
+- 🎓 Connected Manager — Harvard University
+
+### Claude & AI
+- 🤖 AI Fluency: Framework & Foundations — Claude Academy
+- 🤖 Claude 101 — Claude Academy
+- 🤖 Claude Code 101 — Claude Academy
+- 🤖 Claude Code in Action — Claude Academy
+- 🤖 Introduction to Claude Cowork — Claude Academy
+- 🚧 Building with the Claude API — In Progress
+- 🚧 Introduction to Model Context Protocol — In Progress
+
+---
+
 ## 🌐 Connect with me
 
 <p align="left">
